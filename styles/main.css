@@ -1,9 +1,11 @@
-<!-- In this file you are going to write the CSS code -->
+
 *{
     margin:0;
     padding:0;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+
 
 /*NAVIGATION*/
 .transparent_nav{
